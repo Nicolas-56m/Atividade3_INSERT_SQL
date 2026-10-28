@@ -1,5 +1,4 @@
-# Atividade 3 INSERT SQL
-## Atividades_DML_INSERT
+# Atividades_DML_INSERT
 
 ### /* Instrução 1 */
 ```SQL
