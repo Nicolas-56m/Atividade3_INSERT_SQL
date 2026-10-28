@@ -1,6 +1,6 @@
 # Atividades_DML_INSERT
 
-### /* Instrução 1 */
+### Instrução 1
 ```SQL
 USE vendas_informatica;
 
@@ -8,7 +8,7 @@ INSERT INTO cliente (nome_cliente, email, cidade, estado, data_cadastro)
 VALUES ('Rubervaldo Sesiano', 'ruber.sesi@gmail.com','Jaguaríuna','SP','2026-10-28');
 ```
 
-### /* Instrução 2 */
+### Instrução 2
 ```SQL
 USE vendas_informatica;
 
@@ -16,7 +16,7 @@ INSERT INTO produto (nome_produto, categoria, marca, preco_unitario, estoque, at
 VALUES ('MousePad 5POL','Acessórios','Lumix',59.98,35,1,'2026-10-28');
 ```
 
-### /* Instrução 3 */
+### Instrução 3
 ```SQL
 USE vendas_informatica;
 
